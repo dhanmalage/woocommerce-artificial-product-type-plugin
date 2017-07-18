@@ -1,0 +1,24 @@
+ /**
+ * WooCommerce Artificial Product Type
+ *
+ * This file is read by WordPress to generate the plugin information in the
+ * plugin admin area. This file also includes all of the dependencies used by
+ * the plugin, and defines a function that starts the plugin.
+ *
+ * @link              http://whenalive.com
+ * @package           GreenLeaf
+ *
+ * @wordpress-plugin
+ * Plugin Name:       WooCommerce Artificial Product Type
+ * Plugin URI:        http://whenalive.com
+ * Description:       Registering Artificial product type
+ * Version:           1.0.0
+ * Author:            Dhananjaya Maha Malage
+ * Author URI:        https://whenalive.com
+ * License:           GPL-2.0+
+ * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
+ */
+.plant_1_image, .plant_2_image, .plant_3_image, .plant_4_image{display: block;}
+.artificial-img-desc{margin-top: 8px;display: block;font-style:italic;}
+.artificial-img-desc a{padding: 5px;background-color: #999;border-radius: 5px;color: #fff;text-decoration: none;font-style: normal;
+}
